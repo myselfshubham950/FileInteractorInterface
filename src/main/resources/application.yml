@@ -1,0 +1,7 @@
+server.port: 8081
+spring:
+  config:
+    cipherKey: yxvuicidunccxnxzquidxstraitsdxsunmaitrxadxtruityharmunix
+    storeDataUrl: http://localhost:8083/storeData
+    updateDataUrl: http://localhost:8083/updateData
+    readDataUrl: http://localhost:8083/readData
